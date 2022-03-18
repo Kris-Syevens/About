@@ -4,7 +4,11 @@
 - 💞️ I’m looking to further my expand my knowledge in the world of development.
 - 📫 You can reach me via email at kris@syevens.com
 
-<!---
-Kris-Syevens/Kris-Syevens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ # Hosting Repo
+ 
+ This repo will be used to host development projects, challenges, and finished projects. 
+ 
+ *FOLDERS*
+ 
+ /QRCode - This is the hosted site for my Developmental-Project-QR-Code repo.
