@@ -18,3 +18,5 @@
  /Order - This is the hosted site for my Developmental-Project-Order repo.
  
  /Stats - This is the hosted site for my Developmental-Project-Stats repo.
+ 
+ /Tribute - This is the hosted site for my Developmental-Project-Tribute repo.
