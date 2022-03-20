@@ -13,6 +13,8 @@
  
  /QRCode - This is the hosted site for my Developmental-Project-QR-Code repo.
  
- /NFT - This is the hosted site for my Development-Project-NFT repo.
+ /NFT - This is the hosted site for my Developmental-Project-NFT repo.
  
- /Order - This is the hosted site for my Development-Project-Order repo.
+ /Order - This is the hosted site for my Developmental-Project-Order repo.
+ 
+ /Stats - This is the hosted site for my Developmental-Project-Stats repo.
