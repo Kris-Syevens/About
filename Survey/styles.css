@@ -33,6 +33,7 @@ body {
 #title {
   font-weight: 400;
   transform: scale(0.9);
+  text-align: center;
 }
 
 #description {
