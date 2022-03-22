@@ -20,3 +20,5 @@
  /Stats - This is the hosted site for my Developmental-Project-Stats repo.
  
  /Tribute - This is the hosted site for my Developmental-Project-Tribute repo.
+ 
+ /Tip - This is the hosted site for my Developmental-Project-Tip repo.
