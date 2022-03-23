@@ -26,3 +26,5 @@
  /Survey - This is the hosted site for my Developmental-Project-Survey repo.
  
  /Profile - This is the hosted site for my Developmental-Project-Profile repo.
+ 
+ /Social - This is the hosted site for my Developmental-Project-Social repo.
