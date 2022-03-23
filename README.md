@@ -24,3 +24,5 @@
  /Tip - This is the hosted site for my Developmental-Project-Tip repo.
  
  /Survey - This is the hosted site for my Developmental-Project-Survey repo.
+ 
+ /Profile - This is the hosted site for my Developmental-Project-Profile repo.
