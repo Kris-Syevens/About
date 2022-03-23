@@ -9,7 +9,7 @@
  
  This repo will be used to host development projects, challenges, and finished projects. 
  
- *FOLDERS*
+ *Project Directory Paths*
  
  /QRCode - This is the hosted site for my Developmental-Project-QR-Code repo.
  
@@ -22,3 +22,5 @@
  /Tribute - This is the hosted site for my Developmental-Project-Tribute repo.
  
  /Tip - This is the hosted site for my Developmental-Project-Tip repo.
+ 
+ /Survey - This is the hosted site for my Developmental-Project-Survey repo.
