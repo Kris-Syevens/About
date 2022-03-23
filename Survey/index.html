@@ -26,17 +26,17 @@
 
                 <form action="#" id="survey-form">
 
-                    <div id="name">
-                        <label for="">Name</label><br>
-                        <input id="name-label" type="text" placeholder="Enter your name" required>
+                    <div id="name-container">
+                        <label id="name-label" for="">Name</label><br>
+                        <input id="name" type="text" placeholder="Enter your name" required>
                     </div>
-                    <div id="email">
-                        <label for="">Email</label><br>
-                        <input id="email-label" type="email" placeholder="Enter your Email" required>
+                    <div id="email-container">
+                        <label id="email-label" for="email" >Email</label><br>
+                        <input id="email" type="email" placeholder="Enter your Email" required>
                     </div>
-                    <div id="number">
-                        <label for="">Age <span>(optional)</span></label><br>
-                        <input id="number-label" type="number" placeholder="Age" min="1" max="999">
+                    <div id="number-container">
+                        <label id="number-label" for="number">Age <span>(optional)</span></label><br>
+                        <input id="number" type="number" placeholder="Age" min="1" max="999">
                     </div>
                     <div id="dropdown">
 
@@ -64,7 +64,7 @@
                         <label for="Not Sure">Not Sure</label><br>
 
                     </div>
-                    <div id="dropdown2">
+                    <div id="dropdown2-container">
 
                         <label for="current-role">What is your favorite feature of freeCodeCamp?</label><br>
                         <select name="current-role" id="current-role">
@@ -76,7 +76,7 @@
                         </select>
 
                     </div>
-                    <div id="checkboxes">
+                    <div id="checkboxes-container">
 
                         <p>What would you like to see improved?<span> (Check all that apply)</span></p>
 

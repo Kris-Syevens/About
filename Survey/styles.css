@@ -54,18 +54,18 @@ span {
   font-size: 0.75em;
 }
 
-#name,
-#email,
-#number,
+#name-container,
+#email-container,
+#number-container,
 #dropdown,
-#dropdown2,
-#checkboxes {
+#dropdown2-container,
+#checkboxes-container {
   margin-bottom: 15px;
 }
 
-#name-label,
-#email-label,
-#number-label {
+#name,
+#email,
+#number {
   border-radius: 5px;
   padding: 7px;
   border: none;
@@ -95,11 +95,11 @@ span {
   margin-right: 5px;
 }
 
-#checkboxes p {
+#checkboxes-container p {
   margin-bottom: 5px;
 }
 
-#checkboxes label {
+#checkboxes-container label {
   margin-bottom: 5px;
   margin-left: 5px;
 }
