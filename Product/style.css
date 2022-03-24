@@ -45,7 +45,7 @@ body {
 }
 
 .photo {
-  height: 700px;
+  height: 1000px;
   background-image: url(./images/outdoor.jpg);
   background-size: cover;
   background-position: center;
@@ -162,12 +162,12 @@ body {
 }
 
 #pricing h1 {
-    margin-bottom: 35px;
-    text-transform: uppercase;
-    color: var(--primary-color);
-    background-color: black;
-    border-radius: 0 15px 0 15px;
-    padding: 15px;
+  margin-bottom: 35px;
+  text-transform: uppercase;
+  color: var(--primary-color);
+  background-color: black;
+  border-radius: 0 15px 0 15px;
+  padding: 15px;
 }
 
 .card-left,
@@ -197,7 +197,7 @@ body {
 .card-left p,
 .card-middle p,
 .card-right p {
- font-weight: bold;
+  font-weight: bold;
   text-align: center;
   color: var(--primary-color);
   background-color: black;
@@ -205,11 +205,82 @@ body {
 }
 
 footer {
-    height: 100px;
-    background-color: var(--primary-color);
-    color: black;
+  height: 100px;
+  background-color: var(--primary-color);
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .top-feature,
+  .middle-feature,
+  .bottom-feature {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-weight: bold;
+    align-content: center;
+    margin-bottom: 40px;
+    text-align: center;
+    width: 750px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  header {
+    flex-direction: column;
+    padding: 10px 0 0;
+    z-index: 5;
+  }
+  #nav-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    padding: 0;
+  }
+
+  .nav-link {
+    margin-bottom: 10px;
+    font-size: 2em;
+    margin: 0 0 10px;
+  }
+
+  .photo {
+    height: 1000px;
+    background-position: top;
+  }
+
+  #form {
+    transform: scale(0.75);
+  }
+
+  .top-feature,
+  .middle-feature,
+  .bottom-feature {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 40px;
+    text-align: center;
+    width: 350px;
+  }
+
+  #video {
+    transform: scale(0.5);
+  }
+
+  .pricing-container {
+    flex-direction: column;
+  }
+
+  #pricing {
+    height: 1700px;
+  }
 }
