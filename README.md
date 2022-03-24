@@ -32,3 +32,5 @@
  /Product - This is the hosted site for my Developmenal-Project-Product repo.
  
  /4Card - This is the hosted site for my Developmental-Project-4Card repo.
+ 
+ /TechPage - This is the hosted site for my Developmental-Project-TechPage repo.
