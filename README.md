@@ -28,3 +28,5 @@
  /Profile - This is the hosted site for my Developmental-Project-Profile repo.
  
  /Social - This is the hosted site for my Developmental-Project-Social repo.
+ 
+ /Product - This is the hosted site for my Developmenal-Project-Product repo.
