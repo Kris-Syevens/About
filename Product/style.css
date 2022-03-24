@@ -13,7 +13,7 @@ body {
   font-family: sans-serif;
 }
 
-header {
+#header {
   background-color: black;
   color: white;
   display: flex;
@@ -24,18 +24,15 @@ header {
   width: 100vw;
 }
 
-header p {
-  font-size: 2em;
-  color: var(--primary-color);
-  font-weight: bold;
+#header-img {
+  width: 200px;
 }
 
-nav ul li {
+#nav-bar {
   float: left;
-  list-style: none;
 }
 
-li a {
+.nav-link {
   text-decoration: none;
   margin-left: 25px;
   color: white;
@@ -43,7 +40,7 @@ li a {
   font-size: 0.75em;
 }
 
-li a:hover {
+.nav-link:hover {
   color: var(--primary-color);
 }
 
@@ -62,7 +59,7 @@ li a:hover {
   padding: 100px 0;
 }
 
-form {
+#form {
   display: flex;
   flex-direction: column;
   background-color: black;
@@ -70,7 +67,7 @@ form {
   border-radius: 15px 0 15px 0;
 }
 
-form label {
+#form label {
   font-weight: bold;
   text-transform: uppercase;
   background-color: black;
@@ -85,7 +82,7 @@ form label {
   margin-bottom: 10px;
 }
 
-#submit-button {
+#submit {
   padding: 10px;
   background-color: var(--primary-color);
   color: black;
@@ -94,7 +91,7 @@ form label {
   border: 3px solid black;
 }
 
-#submit-button:hover {
+#submit:hover {
   cursor: pointer;
   border: 3px solid var(--primary-color);
   background-color: transparent;
