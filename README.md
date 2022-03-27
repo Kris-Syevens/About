@@ -36,3 +36,5 @@
  /TechPage - This is the hosted site for my Developmental-Project-TechPage repo.
  
  /Single - This is the hosted site for my Developmental-Project-Single repo.
+ 
+ /Portfolio - This is the hosted site for my Developmental-Project-Portfolio repo.
