@@ -38,3 +38,5 @@
  /Single - This is the hosted site for my Developmental-Project-Single repo.
  
  /Portfolio - This is the hosted site for my Developmental-Project-Portfolio repo.
+ 
+ /Huddle - This is the hosted site for my Developmental-Project-Huddle repo.
