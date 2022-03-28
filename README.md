@@ -35,4 +35,6 @@
  /Huddle - This is the hosted site for my Developmental-Project-Huddle repo.
  
  /Testimonials - This is the hosted site for my Developmental-Project-Testimonial repo.
+ 
+ /Ratings - This is the hosted site for my Developmental-Project-Ratings repo.
 
