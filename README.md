@@ -40,3 +40,5 @@
  /Portfolio - This is the hosted site for my Developmental-Project-Portfolio repo.
  
  /Huddle - This is the hosted site for my Developmental-Project-Huddle repo.
+ 
+ /Testimonial - This is the hosted site for my Developmental-Project-Testimonial repo.
