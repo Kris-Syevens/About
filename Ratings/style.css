@@ -67,9 +67,14 @@ main {
 }
 
 .numbers:hover {
-  background-color: var(--color-neutral-light-grey);
+  background-color: var(--color-primary-orange);
   color: var(--color-neutral-white);
   cursor: pointer;
+}
+
+.active {
+  background-color: var(--color-neutral-light-grey);
+  color: var(--color-neutral-white);
 }
 
 button {
@@ -123,10 +128,7 @@ button:hover {
   margin-top: 15px;
 }
 
-.active {
-    background-color: var(--color-primary-orange);
-    color: var(--color-neutral-white);
-}
+
 
 .hidden {
     display: none;
