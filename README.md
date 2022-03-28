@@ -1,11 +1,4 @@
-- 👋 Hi, I’m Kris Syevens!
-- 👀 I’m interested in web app development and cloud/data solutions.
-- 🌱 I’m currently learning JavaScript and React.
-- 💞️ I’m looking to further my expand my knowledge in the world of development.
-- 📫 You can reach me via email at kris@syevens.com
-
-
- # Hosting Repo
+# Hosting Repo
  
  This repo will be used to host development projects, challenges, and finished projects. 
  
@@ -40,3 +33,6 @@
  /Portfolio - This is the hosted site for my Developmental-Project-Portfolio repo.
  
  /Huddle - This is the hosted site for my Developmental-Project-Huddle repo.
+ 
+ /Testimonials - This is the hosted site for my Developmental-Project-Testimonial repo.
+
