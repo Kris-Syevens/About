@@ -37,4 +37,6 @@
  /Testimonials - This is the hosted site for my Developmental-Project-Testimonial repo.
  
  /Ratings - This is the hosted site for my Developmental-Project-Ratings repo.
+ 
+ /Fylo - This is the hosted site for my Developmental-Project-Fylo rep.
 
