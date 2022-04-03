@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -12,7 +13,6 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-
 }
 
 .card {
@@ -20,8 +20,8 @@ body {
   background-color: white;
   box-shadow: 4px 20px 25px 0 rgba(75, 75, 75, 0.1);
   border-radius: 15px;
-  padding: 1em;
-  margin: 1em;
+  padding: 1rem;
+  margin: 1rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,31 +29,34 @@ body {
 
 .img-container {
   width: 100%;
-  height: auto;
   border-radius: 15px;
 }
 
 .img-container img {
   width: 100%;
-  height: auto;
   border-radius: 15px;
 }
 
-.p1,
-.p2 {
-  width: 85%;
-}
-
-.p1 {
+.card-title {
   font-size: 1.5em;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
   margin-top: 20px;
+  width: 85%;
 }
 
-.p2 {
+.card-description {
   font-size: 1em;
   color: hsl(220, 15%, 55%);
   width: 75%;
   margin: 15px 15px 25px;
+}
+
+@media screen and (max-width: 767px) {
+  .card-title {
+    font-size: 1.15em;
+  }
+  .card-description {
+    font-size: 0.85em;
+  }
 }
