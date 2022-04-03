@@ -14,26 +14,27 @@ body {
   font-family: Outfit, sans-serif;
 }
 
-.Card {
+.card {
   max-width: 400px;
   background-color: hsl(216, 50%, 16%);
   border-radius: 15px;
   display: flex;
   flex-direction: column;
   position: relative;
-  padding: 30px;
-  margin: 2em 0;
-  box-shadow: 20px 35px 20px rgba(0, 0, 0, 0.2),
-    -20px 35px 20px rgba(0, 0, 0, 0.2);
+  padding: 6%;
+  margin: 2em 1em;
+  box-shadow: 20px 35px 60px rgba(0, 0, 0, 0.2),
+    -20px 35px 60px rgba(0, 0, 0, 0.2);
 }
 
 .imageContainer {
   width: 100%;
   border-radius: 10px;
   position: relative;
+  margin-bottom: 20px;
 }
 
-.imgEquil {
+#imgEquil {
   width: 100%;
   border-radius: 10px;
 }
@@ -52,22 +53,18 @@ body {
 }
 
 .imageContainer:hover .img-overlay {
-z-index: 1;
-cursor: pointer;
+  z-index: 1;
+  cursor: pointer;
 }
 
-.card-title {
-  margin-top: 20px;
-}
-
-.card-title a {
+.card-link {
   text-decoration: none;
   font-size: 24px;
   color: white;
   font-weight: 600;
 }
 
-.card-title a:hover {
+.card-link:hover {
   color: hsl(178, 100%, 50%);
 }
 
@@ -78,47 +75,44 @@ cursor: pointer;
   margin-top: 20px;
 }
 
-.card-time-price-box {
+.card-time-price-flexbox {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin: 30px 0;
 }
 
-.flexLeft,
-.flexRight {
-  display: flex;
-}
-
-.flexLeft img,
-.flexRight img {
-  width: auto;
-  height: 100%;
-  align-self: center;
-  transform: scale(1.25);
-}
-
-.flexLeft {
+.flex-price {
   color: hsl(178, 100%, 50%);
   font-size: 20px;
   font-weight: 600;
   justify-content: center;
   align-content: center;
+  display: flex;
 }
 
-.flexLeft img {
+.flex-price img {
   margin-right: 10px;
 }
 
-.flexRight {
+.flex-time {
   color: hsl(215, 51%, 70%);
   font-size: 20px;
   justify-content: center;
   align-content: center;
+  display: flex;
 }
 
-.flexRight p {
+.flex-time p {
   margin-left: 10px;
+}
+
+.flex-price img,
+.flex-time img {
+  width: auto;
+  height: 100%;
+  align-self: center;
+  transform: scale(1.25);
 }
 
 .card-footer {
@@ -145,8 +139,32 @@ cursor: pointer;
 .card-footer a {
   text-decoration: none;
   color: white;
+  margin: 0 2px;
 }
 
 .card-footer a:hover {
   color: hsl(178, 100%, 50%);
+}
+
+@media screen and (max-width: 373px) {
+  .card-link {
+    font-size: 20px;
+  }
+
+  .card-description {
+    font-size: 16px;
+  }
+
+  .flex-price,
+  .flex-time {
+    font-size: 16px;
+  }
+
+  .card-footer img {
+    height: 30px;
+  }
+
+  .card-footer p {
+    font-size: 14px;
+  }
 }
