@@ -115,9 +115,10 @@ body {
   border-radius: 25px;
   background-color: var(--mixed-use-color-gray);
   border: none;
-  font-size: .85em;
+  font-size: 0.85em;
   font-family: "Lexend Deca", sans-serif;
   padding: 15px 40px;
+  border: 2px solid white;
 }
 
 .card-sedans .card-button {
@@ -133,10 +134,10 @@ body {
 }
 
 .card-button:hover {
-    background-color: transparent;
-    cursor: pointer;
-    color: white;
-    border: 2px solid white;
+  background-color: transparent;
+  cursor: pointer;
+  color: white;
+  border: 2px solid white;
 }
 
 @media screen and (max-width: 767px) {
