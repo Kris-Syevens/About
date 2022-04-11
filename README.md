@@ -45,5 +45,7 @@
  [Accordion FAQ](https://kris-syevens.github.io/Accordion) - This is the hosted site for my Developmental-Project-Accordion repo.
  
  [Color Generator](https://kris-syevens.github.io/Color-Generator) - This is the hosted site for my Developmental-Project-Color-Generator repo.
+ 
+ [Counter App](https://kris-syevens.github.io/Counter) - This is the hosted site for my Developmental-Project-Counter repo.
 
 
