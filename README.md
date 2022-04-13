@@ -49,5 +49,9 @@
  [Counter App](https://kris-syevens.github.io/Counter) - This is the hosted site for my Developmental-Project-Counter repo.
  
  [Review Flipper App](https://kris-syevens.github.io/Reviews) - This is the hosted site for my Developmental-Project-Reviews repo.
+ 
+ [Navbar App](https://kris-syevens.github.io/Navbar) - This is the hosted site for my Developmental-Project-Reviews repo.
+ 
+ [Sidebar App](https://kris-syevens.github.io/Sidebar) - This is the hosted site for my Developmental-Project-Reviews repo.
 
 
