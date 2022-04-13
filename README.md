@@ -50,8 +50,10 @@
  
  [Review Flipper App](https://kris-syevens.github.io/Reviews) - This is the hosted site for my Developmental-Project-Reviews repo.
  
- [Navbar App](https://kris-syevens.github.io/Navbar) - This is the hosted site for my Developmental-Project-Reviews repo.
+ [Navbar App](https://kris-syevens.github.io/Navbar) - This is the hosted site for my Developmental-Project-Navbar repo.
  
- [Sidebar App](https://kris-syevens.github.io/Sidebar) - This is the hosted site for my Developmental-Project-Reviews repo.
+ [Sidebar App](https://kris-syevens.github.io/Sidebar) - This is the hosted site for my Developmental-Project-Sidebar repo.
+ 
+ [Modal App](https://kris-syevens.github.io/Modal) - This is the hosted site for my Developmental-Project-Modal repo.
 
 
