@@ -55,5 +55,7 @@
  [Sidebar App](https://kris-syevens.github.io/Sidebar) - This is the hosted site for my Developmental-Project-Sidebar repo.
  
  [Modal App](https://kris-syevens.github.io/Modal) - This is the hosted site for my Developmental-Project-Modal repo.
+ 
+ [FAQ2 App](https://kris-syevens.github.io/FAQ2) - This is the hosted site for my Developmental-Project-FAQ2 repo.
 
 
