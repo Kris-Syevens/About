@@ -1,61 +1,19 @@
-# Hosting Repo
  
- This repo will be used to host development projects, challenges, and finished projects. 
- 
- *Project Directory Paths*
- 
- [QR Code](https://kris-syevens.github.io/QRCode) - This is the hosted site for my Developmental-Project-QR-Code repo. 
- 
- [NFT](https://kris-syevens.github.io/NFT) - This is the hosted site for my Developmental-Project-NFT repo.
- 
- [Order Page](https://kris-syevens.github.io/Order) - This is the hosted site for my Developmental-Project-Order repo.
- 
- [Stats](https://kris-syevens.github.io/Stats) - This is the hosted site for my Developmental-Project-Stats repo.
- 
- [3Col](https://kris-syevens.github.io/3Col) - This is the hosted site for my Developmental-Project-3Col repo.
- 
- [Tribute](https://kris-syevens.github.io/Tribute) - This is the hosted site for my Developmental-Project-Tribute repo.
- 
- [Tip Calculator](https://kris-syevens.github.io/Tip) - This is the hosted site for my Developmental-Project-Tip repo.
- 
- [Survey Form](https://kris-syevens.github.io/Survey) - This is the hosted site for my Developmental-Project-Survey repo.
- 
- [Profile Page](https://kris-syevens.github.io/Profile) - This is the hosted site for my Developmental-Project-Profile repo.
- 
- [Social Page](https://kris-syevens.github.io/Social) - This is the hosted site for my Developmental-Project-Social repo.
- 
- [Product LP](https://kris-syevens.github.io/Product) - This is the hosted site for my Developmenal-Project-Product repo.
- 
- [4Card](https://kris-syevens.github.io/4Card) - This is the hosted site for my Developmental-Project-4Card repo.
- 
- [Tech Skeleton](https://kris-syevens.github.io/TechPage) - This is the hosted site for my Developmental-Project-TechPage repo.
- 
- [Single](https://kris-syevens.github.io/Single) - This is the hosted site for my Developmental-Project-Single repo.
- 
- [Porfolio Skeleton](https://kris-syevens.github.io/Portfolio) - This is the hosted site for my Developmental-Project-Portfolio repo.
- 
- [Huddle LP](https://kris-syevens.github.io/Huddle) - This is the hosted site for my Developmental-Project-Huddle repo.
- 
- [Testimonial Page](https://kris-syevens.github.io/Testimonials) - This is the hosted site for my Developmental-Project-Testimonial repo.
- 
- [Ratings Card](https://kris-syevens.github.io/Ratings) - This is the hosted site for my Developmental-Project-Ratings repo.
- 
- [Fylo Page](https://kris-syevens.github.io/Fylo) - This is the hosted site for my Developmental-Project-Fylo rep.
- 
- [Accordion FAQ](https://kris-syevens.github.io/Accordion) - This is the hosted site for my Developmental-Project-Accordion repo.
- 
- [Color Generator](https://kris-syevens.github.io/Color-Generator) - This is the hosted site for my Developmental-Project-Color-Generator repo.
- 
- [Counter App](https://kris-syevens.github.io/Counter) - This is the hosted site for my Developmental-Project-Counter repo.
- 
- [Review Flipper App](https://kris-syevens.github.io/Reviews) - This is the hosted site for my Developmental-Project-Reviews repo.
- 
- [Navbar App](https://kris-syevens.github.io/Navbar) - This is the hosted site for my Developmental-Project-Navbar repo.
- 
- [Sidebar App](https://kris-syevens.github.io/Sidebar) - This is the hosted site for my Developmental-Project-Sidebar repo.
- 
- [Modal App](https://kris-syevens.github.io/Modal) - This is the hosted site for my Developmental-Project-Modal repo.
- 
- [FAQ2 App](https://kris-syevens.github.io/FAQ2) - This is the hosted site for my Developmental-Project-FAQ2 repo.
+ <h1 align="center">Hi 👋, I'm Kris Syevens</h1>
+<h3 align="center">A passionate software developer from Houston, TX.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kris-syevens&label=Profile%20views&color=0e75b6&style=flat" alt="kris-syevens" /> </p>
+
+- 🌱 I’m currently expanding my knowledge of **React** & **TypeScript**
+
+- 👨‍💻 All of my projects are available at [www.syevens.com](www.syevens.com)
+
+- 📫 How to reach me **kris@syevens.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
