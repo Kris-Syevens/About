@@ -1,0 +1,31 @@
+*,
+p {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(hsl(239, 88%, 62%), hsl(271, 71%, 56%));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 100vh;
+  min-width: 100vw;
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  color: white;
+  font-size: 125px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 575px) {
+  p {
+    font-size: 75px;
+    width: 100%;
+  }
+}
