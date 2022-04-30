@@ -7,7 +7,7 @@
 
 ## Links
 
-- [Live](https://syevens.com)
+- [Live](syevens.com)
 
 
 
