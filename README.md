@@ -2,7 +2,7 @@
 <h1 align="center">The Personal Portfolio Repo of Kris Syevens.</h1>
 
 <p align="center">
-Lorem Ipsum
+..Coming Soon..
 </p>
 
 ## Links
@@ -13,7 +13,7 @@ Lorem Ipsum
 
 ## Screenshots
 
-![Home Page](images/Preview.png)
+![Home Page](preview.png)
 
 
 
