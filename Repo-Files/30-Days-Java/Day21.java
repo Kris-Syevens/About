@@ -1,0 +1,56 @@
+// Day 21 of 30
+
+
+public class Day21 {
+    // Notes
+
+    // DESCRIPTION:
+    // Given two integers a and b, which can be positive or negative, find the sum of all the
+    // integers between and including them and return it. If the two numbers are equal return a or
+    // b.
+
+    // Note: a and b are not ordered!
+
+    // Examples (a, b) --> output (explanation)
+    // (1, 0) --> 1 (1 + 0 = 1)
+    // (1, 2) --> 3 (1 + 2 = 3)
+    // (0, 1) --> 1 (0 + 1 = 1)
+    // (1, 1) --> 1 (1 since both are same)
+    // (-1, 0) --> -1 (-1 + 0 = -1)
+    // (-1, 2) --> 2 (-1 + 0 + 1 + 2 = 2)
+
+    public static int seriesThreeSum(int a, int b) {
+
+        if (a < b) {
+            int sum = 0;
+            for (int i = a; i <= b; i++) {
+                sum += i;
+            }
+            return sum;
+        } else if (a == b) {
+            return a;
+        } else {
+            int sum = 0;
+            for (int i = a; i >= b; i--) {
+                sum += i;
+            }
+            return sum;
+        }
+
+    }
+
+    // Testing notes below:
+    public static void main(String[] args) {
+
+        System.out.println(seriesThreeSum(1, 0)); // 1
+        System.out.println(seriesThreeSum(1, 2)); // 3
+        System.out.println(seriesThreeSum(0, 1)); // 1
+        System.out.println(seriesThreeSum(1, 1)); // 1
+        System.out.println(seriesThreeSum(-1, 0)); // -1
+        System.out.println(seriesThreeSum(-1, 2)); // 2
+        System.out.println(seriesThreeSum(2, 1)); // 3
+        System.out.println(seriesThreeSum(4, 1)); // 10
+
+    }
+
+}
