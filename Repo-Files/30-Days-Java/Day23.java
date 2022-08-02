@@ -33,6 +33,7 @@ public class Day23 {
 
         System.out.println(squareEveryDigit(9119)); // 811181
         System.out.println(squareEveryDigit(222)); // 444
+        System.out.println(squareEveryDigit(777)); // 494949
 
     }
 
