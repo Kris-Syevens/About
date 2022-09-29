@@ -5,15 +5,15 @@
 ### Category Name 1 
 
 [Bug-Zapper](/Bug-Zapper)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bug-zapper.png?raw=true"/>
 
 ---
 [Recruit-Me](/Recruit-Me)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/under-construction.png?raw=true"/>
 
 ---
 [Tool-Share](/Tool-Share)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/under-construction.png?raw=true"/>
 
 ---
 
