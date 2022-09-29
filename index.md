@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bug-Zapper](/Bug-Zapper)
+<img src="images/bug-zapper.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Recruit-Me](/Recruit-Me)
+<img src="images/under-construction.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tool-Share](/Tool-Share)
+<img src="images/under-construction.png?raw=true"/>
 
 ---
 
